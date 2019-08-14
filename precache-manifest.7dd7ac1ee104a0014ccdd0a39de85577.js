@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1100fc7868a58f258f2b92aa44952a16",
+    "revision": "79307f069e558dd6c95b93a7ff267370",
     "url": "/taniarascia-react-tutorial/index.html"
   },
   {
-    "revision": "113436cfb5473c7979eb",
+    "revision": "d9a94a723a657cbbeb3d",
     "url": "/taniarascia-react-tutorial/static/css/main.545ae54c.chunk.css"
   },
   {
-    "revision": "2a6120dc9afa576ce2cf",
-    "url": "/taniarascia-react-tutorial/static/js/2.b4a0a1d0.chunk.js"
+    "revision": "854d68ec4190dad53f1b",
+    "url": "/taniarascia-react-tutorial/static/js/2.d7b9399b.chunk.js"
   },
   {
-    "revision": "113436cfb5473c7979eb",
-    "url": "/taniarascia-react-tutorial/static/js/main.982e8491.chunk.js"
+    "revision": "d9a94a723a657cbbeb3d",
+    "url": "/taniarascia-react-tutorial/static/js/main.ab20f6f6.chunk.js"
   },
   {
     "revision": "64abc914b59bb0be0510",
