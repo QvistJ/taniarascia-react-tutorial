@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.545ae54c.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.982e8491.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.982e8491.chunk.js.map",
-    "runtime~main.js": "/react-tutorial/static/js/runtime~main.4adc765e.js",
-    "runtime~main.js.map": "/react-tutorial/static/js/runtime~main.4adc765e.js.map",
-    "static/js/2.b4a0a1d0.chunk.js": "/react-tutorial/static/js/2.b4a0a1d0.chunk.js",
-    "static/js/2.b4a0a1d0.chunk.js.map": "/react-tutorial/static/js/2.b4a0a1d0.chunk.js.map",
-    "index.html": "/react-tutorial/index.html",
-    "precache-manifest.d881c100cfd8079e0e7b50673f4620ee.js": "/react-tutorial/precache-manifest.d881c100cfd8079e0e7b50673f4620ee.js",
-    "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.545ae54c.chunk.css.map": "/react-tutorial/static/css/main.545ae54c.chunk.css.map"
+    "main.css": "/taniarascia-react-tutorial/static/css/main.545ae54c.chunk.css",
+    "main.js": "/taniarascia-react-tutorial/static/js/main.982e8491.chunk.js",
+    "main.js.map": "/taniarascia-react-tutorial/static/js/main.982e8491.chunk.js.map",
+    "runtime~main.js": "/taniarascia-react-tutorial/static/js/runtime~main.28ff2939.js",
+    "runtime~main.js.map": "/taniarascia-react-tutorial/static/js/runtime~main.28ff2939.js.map",
+    "static/js/2.b4a0a1d0.chunk.js": "/taniarascia-react-tutorial/static/js/2.b4a0a1d0.chunk.js",
+    "static/js/2.b4a0a1d0.chunk.js.map": "/taniarascia-react-tutorial/static/js/2.b4a0a1d0.chunk.js.map",
+    "index.html": "/taniarascia-react-tutorial/index.html",
+    "precache-manifest.71ea501e670ce6bce319873820c48e58.js": "/taniarascia-react-tutorial/precache-manifest.71ea501e670ce6bce319873820c48e58.js",
+    "service-worker.js": "/taniarascia-react-tutorial/service-worker.js",
+    "static/css/main.545ae54c.chunk.css.map": "/taniarascia-react-tutorial/static/css/main.545ae54c.chunk.css.map"
   }
 }
